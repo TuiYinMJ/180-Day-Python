@@ -100,6 +100,15 @@
 </html>
 ```
 
+#### iframe标签
+iframe就是从网页中嵌入另一个网页
+
+```html
+<iframe src="https://www.baidu.com" width="500px" height="500px" frameborder="0"></iframe>
+```
+
+freamborder为0无边框，1有边框
+
 
 
 ### 3、表格标签
